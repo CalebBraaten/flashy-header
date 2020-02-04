@@ -1,0 +1,24 @@
+{
+  "name": "flashy-header",
+  "version": "1.0.0",
+  "description": "An H1 tag with rainbow styling",
+  "main": "flashy-header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CalebBraaten/flashy-header.git"
+  },
+  "keywords": [
+    "Custom",
+    "Web",
+    "Component"
+  ],
+  "author": "Caleb Braaten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalebBraaten/flashy-header/issues"
+  },
+  "homepage": "https://github.com/CalebBraaten/flashy-header#readme"
+}
