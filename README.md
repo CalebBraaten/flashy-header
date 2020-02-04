@@ -1,6 +1,8 @@
 # Flashy Header Element
 Native Custom Web Component that requires no dependencies (and likely no polyfills)
 
+![Example gif of Component](./example.gif)
+
  1. To use just add a script tag for the component:\
 `<script  src="./flashy-header.js"></script>`
 
